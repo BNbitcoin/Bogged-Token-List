@@ -1,1 +1,14 @@
-
+{
+    "name": "BNbitcoin Token",
+    "website": "https://bnbitcoin.org/",
+    "telegram": "https://t.me/BNBTC_BSC",
+    "discord": "https://discord.gg/RWdbsfT6Kj",
+    "twitter": "https://twitter.com/BNBTC_on_BSC",
+    "description": "BNbitcoin is the first, native, pure PoW mined BEP20 token on the Binance Smart Chain.",
+    "explorer": "https://bscscan.com/token/0xE7Cb24F449973D5B3520E5b93D88B405903c75Fb",
+    "type": "BEP20",
+    "symbol": "BNBTC",
+    "decimals": 8,
+    "status": "active",
+    "id": "0xE7Cb24F449973D5B3520E5b93D88B405903c75Fb"
+}
